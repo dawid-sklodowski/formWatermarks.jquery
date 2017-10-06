@@ -20,4 +20,4 @@ We can put label inside field with:
 
 == Copyright:
 
-Copyright (c) 2011 innov8on. See LICENSE for details.
+Copyright (c) 2011 {Lean Logics}[http://leanlogics.com]. See LICENSE for details.
